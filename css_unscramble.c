@@ -218,5 +218,5 @@ void CSSdecrypttitlekey(unsigned char *tkey,unsigned char *dkey) {
 }
 
 /*****************************************************************************
- * This little piece of software was brought to you by an HTTP server.
+ * This little piece of software was brought to you by a Git repo.
  *****************************************************************************/
